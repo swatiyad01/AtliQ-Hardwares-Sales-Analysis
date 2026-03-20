@@ -30,8 +30,6 @@ The project covers the complete workflow:
 - 🆕 **New Product Impact**
     - Newly launched products generated **$176.2M revenue in 2021**
 
-### 🛠️ **Tools & Techniques**
-
 **Tools/Used**
 
 - Microsoft Excel
